@@ -16,6 +16,7 @@ Interests:
 -   Linux
 -   Reverse Engineering
 -   Embedded systems
+-   Math
 -   Lots of other stuff
 
 
