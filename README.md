@@ -7,21 +7,17 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
-### About Me 🙂
+### About Me
 
 Hi there! I'm a student who's passionate about tech. I enjoy learning new stuff and working on my skills. Here you can find some of my Projects
 
-Interests ⚡:
+Interests:
 -   Open Source Software Development
 -   Linux
 -   Reverse Engineering
 -   Embedded systems
 -   Lots of other stuff
 
-Currently learning 🌱:
--   Algs
--   Lots about Risc-V
-    
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
@@ -29,7 +25,6 @@ Currently learning 🌱:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -38,27 +33,15 @@ Currently learning 🌱:
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"  title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-### 🔥 Stats 
-
 <details>
-<summary>Stats 📈</summary>
-<br>
+<summary></summary>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FrozenBirdXD&theme=dracula)
-![Matthew's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FrozenBirdXD&show_icons=true&theme=dracula)
-
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrozenBirdXD&theme=dracula) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenBirdXD&theme=dracula&hide=cmake,css)
-
-<br>
 Probably doing really boring nerd stuff now & listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ek25ji1lvsk5hntjz0nqnol9g&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
